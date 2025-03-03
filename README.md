@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello World! I'm Ana Luiza :D
+
 Atualmente, estou me aprofundando em tecnologias de desenvolvimento Backend, como Python, para expandir minhas competências e aplicar meus conhecimentos de forma prática. No entanto, meu objetivo de longo prazo é migrar para o desenvolvimento de software, buscando desafios que me permitam crescer como desenvolvedora e aplicar soluções inovadoras em diversas áreas da tecnologia.
 
 
